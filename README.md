@@ -5,7 +5,7 @@ adept at integrating resources into business operations and developing innovativ
 to diverse issues. Strong history of managing highly effective teams to execute complex projects.
 motivated to learn and develop himself in every aspect of the software world.
 
-Skills: LARAVEL / VUEJS / JS / HTML / CSS / PHP / Docker / Ngnix
+Skills: LARAVEL / VUEJS / JS / HTML / CSS / PHP / DOCKER / NGNIX
 
 - 💬 Ask me about PHP, Laravel, VueJs 
 
