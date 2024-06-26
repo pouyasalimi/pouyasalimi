@@ -1,9 +1,6 @@
 ### Hi there 👋, I'm Pouya Salimi
 #### A talented technical specialist
-Talented Software engineer with over +10 years of experience in web design and development,
-adept at integrating resources into business operations and developing innovative technical solutions
-to diverse issues. Strong history of managing highly effective teams to execute complex projects.
-motivated to learn and develop himself in every aspect of the software world.
+Experienced Software Engineer with over 10 years of expertise in web design and development. Skilled in integrating resources into business operations and finding innovative technical solutions. Proficient in managing highly effective teams and executing complex projects. Motivated to continuously learn and grow in the software field.
 
 Skills: LARAVEL / VUEJS / JS / HTML / CSS / PHP / DOCKER / NGINX
 
